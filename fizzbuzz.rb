@@ -3,3 +3,8 @@ def fizzbuzz(number)
   
     return "Fizz"
   end
+  
+def fizzbuzz(numer2)
+  
+  return(buzz)
+end
