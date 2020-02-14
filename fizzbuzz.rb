@@ -10,3 +10,5 @@ def fizzbuzz(number)
  else number % 4 == 4 
    return NIL
   end
+  
+end
