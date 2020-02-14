@@ -3,3 +3,6 @@ def fizzbuzz(number)
   if number == fizz_3 % 3
     return "Fizz"
   end
+  
+def fizzbuzz(number)
+  if number == 
